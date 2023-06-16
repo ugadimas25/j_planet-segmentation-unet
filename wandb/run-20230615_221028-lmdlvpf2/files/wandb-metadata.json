@@ -1,0 +1,49 @@
+{
+    "os": "Windows-10-10.0.22621-SP0",
+    "python": "3.8.10",
+    "heartbeatAt": "2023-06-15T15:10:36.043955",
+    "startedAt": "2023-06-15T15:10:28.127858",
+    "docker": null,
+    "cuda": null,
+    "args": null,
+    "state": "running",
+    "program": "j_planet-segmentation-unet/a_planet-segmentation.ipynb",
+    "root": "C:/Users/dimas.perceka/OneDrive - Koltiva/Desktop/Belajar/Deep Learning/Rob_cole/j_planet-segmentation-unet/j_planet-segmentation-unet",
+    "git": {
+        "remote": "https://github.com/ugadimas25/j_planet-segmentation-unet.git",
+        "commit": null
+    },
+    "email": "dimas.perceka@koltiva.com",
+    "host": "KTV-2021-115",
+    "username": "dimas.perceka",
+    "executable": "C:\\Users\\dimas.perceka\\OneDrive - Koltiva\\Desktop\\Belajar\\Deep Learning\\Rob_cole\\j_planet-segmentation-unet\\api\\Scripts\\python.exe",
+    "cpu_count": 4,
+    "cpu_count_logical": 8,
+    "cpu_freq": {
+        "current": 2803.0,
+        "min": 0.0,
+        "max": 2803.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 2803.0,
+            "min": 0.0,
+            "max": 2803.0
+        }
+    ],
+    "disk": {
+        "total": 475.69237899780273,
+        "used": 467.71814727783203
+    },
+    "gpu": "NVIDIA GeForce MX450",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA GeForce MX450",
+            "memory_total": 2147483648
+        }
+    ],
+    "memory": {
+        "total": 15.788383483886719
+    }
+}
